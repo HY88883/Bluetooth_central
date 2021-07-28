@@ -15,7 +15,7 @@ $ react-native run-android
 ### 技术
 
 蓝牙模块通信基于 [react-native-ble-manager](https://github.com/innoveit/react-native-ble-manager) 实现。
-app采用react-native+react-native-navigation+hook状态管理技术栈。
+app采用react-native+react-native-navigation+typescript+hook状态管理技术栈。
 
 app部分截图：
 ![5f7e098185066082a4b02ed00a9f81a](https://user-images.githubusercontent.com/43999270/127261404-b54d2786-0825-473a-9c1c-b898ea9d031b.jpg)
