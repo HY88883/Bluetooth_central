@@ -8,6 +8,7 @@ React Native 中使用 BLE 的示例项目,用来扫描并连接可用的外设�
 
 ```bash
 $ cd BluetoothProject
+$ yarn install or npm install
 $ react-native run-android
 ```
 
